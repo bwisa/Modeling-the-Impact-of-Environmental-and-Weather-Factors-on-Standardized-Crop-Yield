@@ -80,3 +80,9 @@ Linear regression, for all its strengths, assumes a straightforward relationship
 Our yield also depends on more than just the pollution or the temperature; it depends on many of the factors – we could see that from our EDA. We also saw that not all crops are affected equally by pollution or temperature, so we could simplify our model if we remove the influence of the different crops.
 
 As we dive deeper into regression, it's crucial to remember that with each model comes a new perspective. Just as a farmer selects the tool that best suits the task at hand, so we must choose our models with intention and insight. Exploring beyond linear regression opens up new vistas of understanding, allowing us to capture the richness of relationships within our data.
+
+#  
+
+<div align="center" style=" font-size: 80%; text-align: center; margin: 0 auto">
+<img src="COPYRIGHT_MIKE_BWISA_MWASAME-01.jpg"  style="width:200px; width:100%;"/>
+</div>
