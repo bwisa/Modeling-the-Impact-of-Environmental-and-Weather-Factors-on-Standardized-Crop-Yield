@@ -1,3 +1,7 @@
+<div align="center" style=" font-size: 80%; text-align: center; margin: 0 auto">
+<img src="CORRELATION_CROP_BANNER.jpg"  style="display: block; margin-left: auto; margin:0px auto;";/>
+</div>
+
 # Modeling-the-Impact-of-Environmental-and-Weather-Factors-on-Standardized-Crop-Yield
 In this project, I build and evaluated a Multiple Linear Regression model that accurately predicts the standardized crop yield (Standard_yield) based on environmental, geographic, and weather-driven features.
 
